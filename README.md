@@ -105,4 +105,4 @@ LinkedIn: https://www.linkedin.com/in/srija-das-316496299/
 
 Screenshot :
 
-Example : ![Dashboard preview].([https://github.com/SrijaDas06/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20-%20made%20in%20Power%20BI.png](https://github.com/SrijaDas06/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20-%20made%20in%20Power%20BI.png)).
+Example : ![Dashboard Preview](https://github.com/SrijaDas06/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20-%20made%20in%20Power%20BI.png).
