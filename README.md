@@ -97,11 +97,12 @@ Perfect for portfolio showcase, HR analytics teams, or BI learners.
 
 If you have questions or want to connect, feel free to reach out:
 
-Your Name
+Srija Das
 
 Email: dassrija217@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/srija-das-316496299/
 
 Screenshot :
-Example : ![Dashboard preview].(https://github.com/SrijaDas06/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20-%20made%20in%20Power%20BI.png).
+
+Example : ![Dashboard preview].([https://github.com/SrijaDas06/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20-%20made%20in%20Power%20BI.png](https://github.com/SrijaDas06/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20-%20made%20in%20Power%20BI.png)).
